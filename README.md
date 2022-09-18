@@ -1,3 +1,6 @@
-# ```pytest for data scientists``` 
+# Hypothesis and Pandera for pandas dataframe testing 
 
-A short tutorial on the use of ```pytest``` for the validation of dataframes
+Tutorial by: Khuyen Tran <br/>
+Reference: https://towardsdatascience.com/hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e
+
+A short tutorial on the use of ```pytest``` and ```hypothesis``` for the validation of pandas dataframes
