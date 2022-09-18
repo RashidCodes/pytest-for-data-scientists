@@ -46,10 +46,7 @@ def worker():
     logging.info(f"Deque complete!")
 
 
-    
 
-
-    
 
 # the keys are the nodes 
 # the values are iterables of all predecessors of that node in the graph
